@@ -1,2 +1,4 @@
-# portofolio-website
-website open source untuk company profile
+#Company-profile
+Website Company Profile (Front end)
+Tools (HTML, CSS, JavaScript)
+
